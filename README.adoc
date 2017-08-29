@@ -1,6 +1,6 @@
 = SCENARIO
 
-Here to PoC the Scenario components 
+Here to PoC the Scenario components.
 
 
 = LAB 1
